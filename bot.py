@@ -12,7 +12,7 @@ print(f"{blue} ")
 print("Good luck buddy{'👨🏻‍💻'}")
 print(f"{yellow} ")
 
-print("""    Subscribe to the channel --> : @kerbazi""")
+print("""    Subscribe to the channel --> : @heruyny""")
 #hosein-naaji
 print(f"{green} ")
 bot = Bot(input("Please enter your ((Auth))🥶:"))
@@ -23,7 +23,7 @@ while True:
 	
 	time.sleep(120)
 	x = get("https://api.codebazan.ir/jok/").text
-	cp = f"کانال جوک ما \n @sterik_jok"
+	cp = f"کانال جوک ما \n @kerbazi"
 	jok = f"{x}  \n {cp} \n "
 	bot.sendMessage("GUID", jok)
 	print('sended')
