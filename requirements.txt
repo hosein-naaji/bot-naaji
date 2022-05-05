@@ -1,4 +1,4 @@
 pycryptodome==3.10.1
 requests
-rubika-lib
+rubika_lib
 findall
